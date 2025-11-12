@@ -4,6 +4,7 @@ git clone https://github.com/mtoyoda/sl
 cd sl
 make
 cp sl ~/.sl
+cp README.train.md ~
 
 for rc in ~/.zshrc ~/.bashrc ~/.config/fish/config.fish; do
 	echo 'alias pwd="~/.sl"' >> $rc
