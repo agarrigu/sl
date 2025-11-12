@@ -21,7 +21,7 @@ He had in his house a housekeeper past forty, a niece under twenty,
 and a lad for the field and market-place,
 who used to saddle the hack as well as handle the bill-hook.
 The age of this gentleman of ours was bordering on fifty;
-he was of a hardy habit, spare, gaunt-featured,]
+he was of a hardy habit, spare, gaunt-featured,
 a very early riser and a great sportsman.
 They will have it his surname was Quixada or Quesada
 (for here there is some difference of opinion
